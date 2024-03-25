@@ -9,3 +9,9 @@
   - [Full Grammar specification](https://docs.python.org/3/reference/grammar.html)
 - [library reference](https://docs.python.org/3/library/index.html)
 - [pyformat.info](pyformat.info)
+
+## lector pc
+
+```shell
+\\lektor01\Documents
+```
