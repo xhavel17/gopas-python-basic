@@ -1,0 +1,6 @@
+lines=['CZ,Brno','CZ,Praha','SK,Kosice','AT,Linz','DE,Berlin','CZ,Hradec Kralove','SK,Bratislava',
+      'SK,Zilina','CZ,Ostrava','CZ,Kolin','AT,Graz']
+
+
+lines=['CZ,Brno,395000','CZ,Praha,1100000','SK,Kosice,185000','AT,Linz,78000','DE,Berlin,6300000','CZ,Hradec Kralove,97000',
+       'SK,Bratislava,403000','SK,Zilina,65000','CZ,Ostrava,280000','CZ,Kolin,57000','AT,Graz,91000']
