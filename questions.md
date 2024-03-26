@@ -1,4 +1,5 @@
 # Instructor questions
 
-- server client in python
-- 
+- server / client programming in python
+- multithread programming
+  
