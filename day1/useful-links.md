@@ -24,3 +24,10 @@ reger for python
 ```shell
 \\lektor01\Documents
 ```
+
+
+## Julia
+-[julialang](https://julialang.org/)
+
+## Carbon
+https://en.wikipedia.org/wiki/Carbon_(programming_language)
