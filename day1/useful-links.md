@@ -10,8 +10,15 @@
 - [library reference](https://docs.python.org/3/library/index.html)
 
 print fce formating
+
 - [pyformat.info](pyformat.info)
 
+simple gui for pyton
+
+- [PySimpleGui](https://www.pysimplegui.com/why-us)
+
+reger for python
+-[regex101.com] (https://www.regex101.com)
 ## lector pc
 
 ```shell
