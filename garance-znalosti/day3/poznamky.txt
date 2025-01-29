@@ -1,0 +1,9 @@
+#priklad pro zbytek kurzu
+radky = ['CZ,Brno', 'CZ,Praha', 'SK,Kosice', 'DE,Berlin', 'SK,Banska Bystrica', 'CZ,Ostrava',
+         'CZ,Hradec Kralove', 'AT,Linz', 'SK,Bratislava', 'AT,Graz', 'CZ,Ceske Budejovice' ]
+#vypiste pro vzestupne serzeny seznam kodu statu seznam mest v poradi jak jsou uvedena v listu radky oddelena carka_mezera
+#AT: Linz, Graz
+#CZ: Brno, Praha, Ostrava, Hradec Kralove, Ceske Budejovice
+#DE: Berlin
+#SK: Kosice, Banska Bystrica, Bratislava
+
